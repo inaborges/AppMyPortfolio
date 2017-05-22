@@ -7,6 +7,7 @@
     <string name="make_your_app">Make your app material</string>
     <string name="go_ubitiquous">Go Ubitiquous</string>
     <string name="capstone">Capstone: My Own App</string>
+     <string name="toast_message">This button will launch \'%s\' app</string>
 
 
 </resources>

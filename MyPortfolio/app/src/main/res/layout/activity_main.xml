@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="@string/popular_movies"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
     <Button
@@ -29,7 +29,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="@string/stock_hawk"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
     <Button
@@ -37,7 +37,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="@string/build_it_bigger"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
     <Button
@@ -45,7 +45,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="@string/make_your_app"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
     <Button
@@ -53,7 +53,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="@string/go_ubitiquous"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
     <Button
@@ -61,7 +61,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="@string/capstone"
-        android:onClick="buttonMessage"
+        android:onClick="sendMessage"
         android:layout_gravity="center_horizontal"/>
 
 
