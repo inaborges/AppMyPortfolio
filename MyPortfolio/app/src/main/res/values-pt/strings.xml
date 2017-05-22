@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPortfolio</string>
+    <string name="build_it_bigger">Construa maior</string>
+    <string name="go_ubitiquous">Seja Onipresente</string>
+    <string name="make_your_app">Faça seu app material</string>
+    <string name="my_nano_app">Meu App Nanodegree</string>
+    <string name="popular_movies">Filmes Populares</string>
+    <string name="capstone">Capstone: meu próprio app</string>
+    <string name="stock_hawk"></string>
+</resources>
