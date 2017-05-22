@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="My Nanodegree Apps"
+        android:text="@string/my_nano_app"
         android:textSize="16sp"
         android:layout_marginTop="40dp"
         android:layout_gravity="center_horizontal"/>
@@ -20,7 +20,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="Popular Movies"
+        android:text="@string/popular_movies"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
@@ -28,7 +28,7 @@
         android:id="@+id/stock_hawk"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="Stock Hawk"
+        android:text="@string/stock_hawk"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
@@ -36,7 +36,7 @@
         android:id="@+id/build_it_bigger"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="Build it Bigger"
+        android:text="@string/build_it_bigger"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
@@ -44,7 +44,7 @@
         android:id="@+id/make_your_app_material"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="Make your app Material"
+        android:text="@string/make_your_app"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
@@ -52,7 +52,7 @@
         android:id="@+id/go_ubiquitous"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="Go Ubiquitous"
+        android:text="@string/go_ubitiquous"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
@@ -60,7 +60,7 @@
         android:id="@+id/my_own_app"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="Capstone: My Own App"
+        android:text="@string/capstone"
         android:onClick="buttonMessage"
         android:layout_gravity="center_horizontal"/>
 
